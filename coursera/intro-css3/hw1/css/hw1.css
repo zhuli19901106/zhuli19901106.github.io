@@ -1,0 +1,27 @@
+header {
+    background: #b2b2b2;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #000080;
+    text-transform: uppercase;
+}
+
+img {
+    display: none;
+}
+
+section.right {
+    background: #7f7f7f;
+}
+
+nav a {
+    color: #000000;
+    background: #c5c5c5;
+}
